@@ -1,0 +1,68 @@
+Carli	??		Gathered group, setup meeting
+
+All	18/11/23	Meeting contribution (see meeting 18-11-23)
+
+Carli	18/11/23	Meeting notes (drew up, formatted, shared)
+
+Martin	18/11/23	Discord setup (invites, adding links)
+			Trello setup (creating space, invites)
+			Github setup (creating starter files, invites, adding meeting notes/rubrics)
+
+Carli	19/11/23	Trello setup (setting tasks, setting dates, setting members, adding descriptions)
+
+Tan	20/11/23	Fledged out idea contribution (see tan idea contribution)
+
+Carli	20/11/23	Setup meeting
+
+Carli	23/11/23	Posted next meeting objectives + activities
+
+Kurt	25/11/23	Created + shared Gantt chart
+
+All	26/11/23	Meeting contributions (see meeting 26-11-23)
+			Provided docs/research of requirements/context/content
+
+Martin	26/11/23	Created + shared Google document for questionnaire questions
+			Setup collaborative link to Gantt chart
+			Create directory for research docs
+
+Carli	26/11/23	Meeting notes (drew up, formatted, shared)
+
+Kurt	26/11/23	Created questionnaire
+			Entered questions/sections
+			Shared questionnaire
+
+Carli	27/11/23	Update Trello boards (move old cards, create new cards and assign dates and members)
+			Create directories and add files for individual research on requirements
+			Setup meeting
+
+Martin	27/11/23	Add files for research requirements
+
+All	28/11/23	Review and give feedback on questionnaire
+
+Carli	30/11/23	Made final adjustments to questionnaire
+
+Tan	30/11/23	Approved of final adjustments to questionnaire
+
+Carli	01/12/23	Posted questionnaire
+
+Carli	01/12/23	Setup meeting (for 03/12/23)
+			Provided meeting objectives
+
+All	03/12/23	Shared prototypes or starter ideas for how to construct website
+			Reviewed questionnaire responses
+			Reviewed project demands
+
+Martin	03/12/23	Shared past midterm report
+
+Kurt	03/12/23	Shared eraser platform
+
+Carli	03/12/23	Meeting notes (drew up/formatted/shared)
+
+Carli	04/12/23	Shared platforms conducting market research on
+
+Carli	05/12/23	Upload market research notes
+
+Carli	12/12/23	Conduct SWOT analysis
+			Conduct low level analysis on questionnaire
+			Update Trello board
+			Setup meeting (for 17/12/23)
