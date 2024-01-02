@@ -79,3 +79,22 @@ Carli	18/12/23	Update Trello board (set goals, set due dates, assigned members, 
 			Outlined report structure and rubric goals relevant to headings/sections (eraser)
 			Filled in stakeholders section (eraser)
 			Filled in market research on dribbble and indeed (eraser)
+
+Tan	18/12/23	Contributed research notes (Market research, second questionnaire goals, PESTLE & SWOT analysis)
+			Added scope portion of report
+
+Carli	19/12/23	Edited scope portion of report
+			Added our platforms section in report
+
+Carli	20/12/23	Edited aims and objectives portion of report
+			Edited SWOT analysis portion of report
+
+All	24/12/23	Meeting contributions (24-12-23 Meeting notes)
+
+Carli	24/12/23	Write, format, share meeting notes
+
+Carli	02/01/23	Edit user flow to include search (removed portfolio analytics)
+			Broke up user flow into separate files
+			Write up first questionnaire hypothesis, goals, and conclusions
+			Write up second questionnaire hypothesis, and goals
+			Write up and share second questionnaire
